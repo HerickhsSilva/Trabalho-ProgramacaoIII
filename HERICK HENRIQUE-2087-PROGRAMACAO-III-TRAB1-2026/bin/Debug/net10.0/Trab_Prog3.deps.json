@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Trab_Prog3/1.0.0": {
+        "runtime": {
+          "Trab_Prog3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Trab_Prog3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

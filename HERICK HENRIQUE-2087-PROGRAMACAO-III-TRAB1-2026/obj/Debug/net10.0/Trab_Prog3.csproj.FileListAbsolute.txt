@@ -1,0 +1,15 @@
+C:\Users\hhss1\Desktop\Trab_Prog3\obj\Debug\net10.0\Trab_Prog3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hhss1\Desktop\Trab_Prog3\obj\Debug\net10.0\Trab_Prog3.AssemblyInfoInputs.cache
+C:\Users\hhss1\Desktop\Trab_Prog3\obj\Debug\net10.0\Trab_Prog3.AssemblyInfo.cs
+C:\Users\hhss1\Desktop\Trab_Prog3\obj\Debug\net10.0\Trab_Prog3.csproj.CoreCompileInputs.cache
+C:\Users\hhss1\Desktop\Trab_Prog3\bin\Debug\net10.0\Trab_Prog3.exe
+C:\Users\hhss1\Desktop\Trab_Prog3\bin\Debug\net10.0\Trab_Prog3.deps.json
+C:\Users\hhss1\Desktop\Trab_Prog3\bin\Debug\net10.0\Trab_Prog3.runtimeconfig.json
+C:\Users\hhss1\Desktop\Trab_Prog3\bin\Debug\net10.0\Trab_Prog3.dll
+C:\Users\hhss1\Desktop\Trab_Prog3\bin\Debug\net10.0\Trab_Prog3.pdb
+C:\Users\hhss1\Desktop\Trab_Prog3\obj\Debug\net10.0\Trab_Prog3.dll
+C:\Users\hhss1\Desktop\Trab_Prog3\obj\Debug\net10.0\refint\Trab_Prog3.dll
+C:\Users\hhss1\Desktop\Trab_Prog3\obj\Debug\net10.0\Trab_Prog3.pdb
+C:\Users\hhss1\Desktop\Trab_Prog3\obj\Debug\net10.0\Trab_Prog3.genruntimeconfig.cache
+C:\Users\hhss1\Desktop\Trab_Prog3\obj\Debug\net10.0\ref\Trab_Prog3.dll
+C:\Users\hhss1\Desktop\Trab_Prog3\obj\Debug\net10.0\Trab_Prog3.csproj.Up2Date
